@@ -1,7 +1,7 @@
 ---
 title: 0x01 - Postagens
 layout: home
-permalink: /about.md
+permalink: /
 ---
 
 # Lorem ipsum
