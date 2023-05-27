@@ -1,5 +1,5 @@
 ---
-title: /
+title: 0x01 - Ínicio
 layout: home
 permalink: /
 ---
